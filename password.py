@@ -36,7 +36,7 @@ for i in range(len(haslist)):
 if (num==True and upper==True and lower==True):
     print("The password is secure!")
 else:
-    print("This password insecure")
+    print("The password is insecure!")
 
 
 
